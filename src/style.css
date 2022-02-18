@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  margin: 40px 0;
+}
+.sun {
+  width: 20%;
+}
+.mb-1 {
+  text-align: center;
+  margin-top: 0;
+}
+.small-margin {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.graph {
+  display: block;
+  margin: 0 auto;
+}
+.todays-weather {
+  font-size: large;
+}
+.input-city {
+  width: 500px;
+  margin: 0 10px;
+}
